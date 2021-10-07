@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suvadeep Maity</h1>
 <h3 align="center">I'm a Full Stack Web Developer. I like to contribute in open source and collaborate with people to know more :)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvadeep2001" alt="suvadeep2001" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/suvadeep2001" target="blank"><img src="https://img.shields.io/twitter/follow/suvadeep2001?logo=twitter&style=for-the-badge" alt="suvadeep2001" /></a> </p>
 
