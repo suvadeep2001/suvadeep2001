@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **suvadeepmaity18@gmail.com**
 
-- 📄 Know about my experiences [https://suvadeep.netlify.app/](https://suvadeep.netlify.app/)
+- 📄 Know about my experiences [https://suvadeep-maity.netlify.app/](https://suvadeep-maity.netlify.app/)
 
 - ⚡ Fun fact **I am very funny xD**
 
